@@ -1,8 +1,9 @@
 /*
-SQLyog 企业版 - MySQL GUI v8.14 
+SQLyog - MySQL GUI v8.14 
 MySQL - 5.1.49-community : Database - mydb
 *********************************************************************
-*/
+*/
+
 
 /*!40101 SET NAMES utf8 */;
 

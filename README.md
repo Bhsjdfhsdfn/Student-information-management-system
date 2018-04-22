@@ -8,8 +8,8 @@
 
 #运行步骤：
 
-运行数据库建表文件stu <可用SQL YogEnterprise>
-运行tomcat
-修改数据库用户名密码为电脑的用户名和密码 <位置 包 hxk.Util 的DBManager类>
-请务必先注册再进行登录
-每次增删查改之后必须刷新
+1.运行数据库建表文件stu <可用SQL YogEnterprise>
+2.运行tomcat
+3.修改数据库用户名密码为电脑的用户名和密码 <位置 包 hxk.Util 的DBManager类>
+4.请务必先注册再进行登录
+5.每次增删查改之后必须刷新
